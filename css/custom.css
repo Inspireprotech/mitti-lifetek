@@ -6576,6 +6576,14 @@ header.main-header .header-sticky.active{
 	/* Extra small mobile devices */
 	
 	@media (max-width: 480px) {
+		.worldwide{
+			margin-top: 50px !important;
+		}
+
+		.client-logos-slider{
+			margin-top: 20px;
+		}
+
 		.trust-section{
 			padding-top: 50px;
 		}
