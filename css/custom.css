@@ -6573,6 +6573,16 @@ header.main-header .header-sticky.active{
 
 	/* Extra small mobile devices */
 	@media (max-width: 480px) {
+		.contact-item-content h3{
+			font-size: 14px;
+		}
+		.contact-item-content h3 a{
+			font-size: 14px;
+			
+		}
+		.section-title h3{
+			font-size: 12px;
+		}
 		.core-leadership-slider .swiper,
 		.board-advisors-slider .swiper{
 			padding: 0 10px;
